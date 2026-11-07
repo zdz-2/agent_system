@@ -66,7 +66,7 @@ export const constantRoutes = [
         path: "/index",
         component: () => import("@/views/index"),
         name: "Index",
-        meta: { title: "MES 智能助手", icon: "monitor", affix: true },
+        meta: { title: "eero MES 智能助手", icon: "monitor", affix: true },
       },
     ],
   },
